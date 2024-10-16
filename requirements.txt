@@ -1,0 +1,13 @@
+pyrogram
+python-dotenv
+motor
+pillow
+aiohttp
+aiofiles
+requests
+pyromod
+pymongo
+psutil
+emoji
+tglogging
+py-tgcalls
