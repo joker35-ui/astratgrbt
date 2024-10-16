@@ -54,12 +54,12 @@ LOGGER = logging.getLogger(__name__)
 
 API_ID = int(os.environ.get("API_ID", "23188301"))
 API_HASH = os.environ.get("API_HASH", "8b6ff2352631f6e9442eec520fb8105b")
-BOT_TOKEN = os.environ.get("TOKEN", "7705676636:AAFauY1-CPbtvHwqHbuVZ-FnLTh4MjNeBkA")  
+BOT_TOKEN = os.environ.get("TOKEN", "7705676636:AAH5AemHImjBCoT8hVa-6uWA3LqMmwZ1-tk")  
 
 BOT_ID = int(os.environ.get("BOT_ID", "7705676636"))  
 
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@BuseTagger_bot")  
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", 2429801692))  
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", -1002261874393))  
 OWNER_ID = 7995542388  # Sahip hesabın id'si
 
 
