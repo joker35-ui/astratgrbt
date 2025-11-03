@@ -52,15 +52,15 @@ logging.basicConfig(
 )
 LOGGER = logging.getLogger(__name__)
 
-API_ID = int(os.environ.get("API_ID", "23188301"))
-API_HASH = os.environ.get("API_HASH", "8b6ff2352631f6e9442eec520fb8105b")
-BOT_TOKEN = os.environ.get("TOKEN", "7705676636:AAH5AemHImjBCoT8hVa-6uWA3LqMmwZ1-tk")  
+API_ID = int(os.environ.get("API_ID", "22060275"))
+API_HASH = os.environ.get("API_HASH", "c361ff7f52a24f07c2fb3bac4fd74264")
+BOT_TOKEN = os.environ.get("TOKEN", "8254254041:AAEBLTiHOFanQoLT1KJACRJeNtDXtjKy1hM")  
 
-BOT_ID = int(os.environ.get("BOT_ID", "7705676636"))  
+BOT_ID = int(os.environ.get("BOT_ID", "8254254041"))  
 
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@BuseTagger_bot")  
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", -1002261874393))  
-OWNER_ID = 7995542388  # Sahip hesabın id'si
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@BadeTagger_bot")  
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", -1002933060006))  
+OWNER_ID = 8220883331  # Sahip hesabın id'si
 
 
 
