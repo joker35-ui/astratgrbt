@@ -4,7 +4,7 @@ start_message = """**⚘ Selam {} **
 
 ** Ben {} **
 
-»  **Sellammm Ben busetaggerbot memnun oldum şimdide sana neler yapabildiğimden bahsedeyim **
+»  **Sellammm Ben badetaggerbot memnun oldum şimdide sana neler yapabildiğimden bahsedeyim **
 
 »  **Görevim Gruplarda Sizleri Birçok Özelliğim İle Eğlendirmek.**
 
